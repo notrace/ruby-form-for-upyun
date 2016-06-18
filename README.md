@@ -30,7 +30,7 @@ config = {:bucket => 'devel',
 					:secret => 'lRJmqjI19GxB80KJc7y7NOcI+8g=',
 					# :return_url => 'http://localhost/return_url',
 					:notify_url => 'http://dev.365jinbi.com/notify.php',
-          #:content_secret => "123123123",
+          #:content_secret => "1232324343434",
           :apps => [{
                             "name" => "thumb",
                             "x-gmkerl-thumb" => "/fwfh/900x900/watermark/url/#{watermark_path64}/align/southeast/margin/5x5",
